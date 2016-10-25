@@ -41,8 +41,8 @@
             <default_setup>
                 <connection>
                     <host><![CDATA[localhost]]></host>
-                    <username><![CDATA[projects_sona]]></username>
-                    <password><![CDATA[sona123c#]]></password>
+                    <username><![CDATA[DB_USER]]></username>
+                    <password><![CDATA[DB_PASS]]></password>
                     <dbname><![CDATA[projects_magento193]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
